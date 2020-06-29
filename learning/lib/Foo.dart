@@ -1,0 +1,13 @@
+library foo_lib; // libarary name can be a symbol  
+
+class Foo{
+  m1 (){
+    print('Inside m1');
+  }
+  m2 (){
+    print('Inside m2');
+  }
+  m3 (){
+    print('Inside m3');
+  }
+}
